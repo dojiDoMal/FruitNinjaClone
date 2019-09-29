@@ -1,2 +1,2 @@
-# Quiz-Game
-Um template para um jogo do gênero quiz (perguntas e respostas).
+# Fruit Ninja Clone
+Projeto de jogo baseado no famoso jogo mobile Fruit Ninja.
